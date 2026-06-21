@@ -81,8 +81,7 @@ export default function Hero() {
         <div className="reveal relative mx-auto w-full max-w-md lg:max-w-none">
           <div className="absolute inset-0 -z-10 animate-blob bg-gradient-to-br from-brand-400 to-indigo-500 opacity-90" />
           <div className="relative animate-float overflow-hidden rounded-[2rem] border-4 border-white shadow-2xl shadow-slate-900/20">
-            <img
-              src="../public/images/profile.jpg"
+            <img src="profile.jpg"
               alt="Osiberu Boluwatife — Website Designer and Digital Marketing Specialist"
               className="aspect-[4/5] w-full object-cover"
               loading="eager"
