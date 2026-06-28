@@ -69,20 +69,36 @@ export const EXPERIENCES: Experience[] = [
   },
 ];
 
-export const EDUCATION = [
+export const TOOLS = [
   {
-    title: "Secondary School Graduate",
-    place: "Secondary Education",
-    detail: "Completed secondary education successfully with a strong foundation for further studies.",
+    title: "Website Builder",
+    place: "Lovable · GitHub",
+    detail: "Building and deploying modern, 
+    responsive business websites using AI-powered 
+    tools and version control.",
   },
   {
-    title: "University Aspirant",
-    place: "Olabisi Onabanjo University (OOU)",
-    detail:
-      "Aspiring to pursue higher education and further develop skills in technology, innovation, and digital solutions.",
+    title: "Hosting & Deployment",
+    place: "Vercel · Netlify · WhoGoHost",
+    detail: "Fast, reliable site deployment with 
+    free SSL, custom domains, and auto-deploy 
+    from GitHub.",
+  },
+  {
+    title: "Design & Branding",
+    place: "Canva · Figma",
+    detail: "Creating logos, flyers, social media 
+    graphics, and brand identities for local 
+    Nigerian businesses.",
+  },
+  {
+    title: "Digital Marketing",
+    place: "Google Business · Meta Ads",
+    detail: "Google Maps optimization, social media 
+    advertising, and content strategy that drives 
+    real customer growth.",
   },
 ];
-
 export const CATEGORIES = [
   "All",
   "Website Design",
